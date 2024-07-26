@@ -11,5 +11,8 @@
   "description": "",
   "devDependencies": {
     "parcel": "^2.10.3"
+  },
+  "dependencies": {
+    "buffer": "^6.0.3"
   }
 }
